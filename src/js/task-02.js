@@ -29,7 +29,7 @@ ingredients.forEach(ingredient => {
   const item = document.createElement('li');
   item.textContent = ingredient;
   array.push(item);
-  console.log(item);
+  // console.log(item);
 });
 // console.log(array);
 
